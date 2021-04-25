@@ -28,3 +28,7 @@
     flex-basis: 50%
   }  
 }
+
+.fill-80-viewport {
+  min-height: 80vh
+}
